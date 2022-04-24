@@ -31,8 +31,6 @@ Here is a working live demo : https://statuesque-torrone-a63899.netlify.app/
 - [React JS](https://reactjs.org/)
 - [Material UI](https://material-ui.com/)
 
-## Team
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
 
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+
